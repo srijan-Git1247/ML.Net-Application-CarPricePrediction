@@ -4,12 +4,27 @@ NuGet Package used is Microsoft.ML.FastTree
 
 The sampledata.csv file contains 18 rows of random data. Feel free to adjust the data to fit your own observation or to adjust the trained model. 
 Each of these rows contains the value for the properties in the CarInventory Class.
+1. HasSunroof
+2. HasAC
+3. HasAutomaticTransmission
+4. Amount
+5. Label indicating whether price is a good deal or not.
+
+
+
+
 
 Here is a snippet of the data:
+
+
+
 ![image](https://github.com/user-attachments/assets/e7e9247e-3d5f-429b-9532-fc0ad7f37efe)
 
 
 The testdata.csv file contains additional datga points to test the trained and evaluate:
+
+
+
 ![image](https://github.com/user-attachments/assets/d2c72a18-e030-494d-8f78-0c36ce9c4cc4)
 
 Run the Console Application with commandline arguments:
