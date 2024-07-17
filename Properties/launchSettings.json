@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CarPricePrediction": {
+      "commandName": "Project",
+      "commandLineArgs": "predict\r\n\"D:\\Machine Learning Projects\\CarPricePrediction\\Data\\input.json\"\r\n"
+    }
+  }
+}
