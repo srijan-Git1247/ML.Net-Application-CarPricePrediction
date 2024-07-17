@@ -29,7 +29,7 @@ The testdata.csv file contains additional datga points to test the trained and e
 
 Run the Console Application with commandline arguments:
 1. Train and test-evaluate the model using sampledata.csv and testdata.csv 
-> D:\Machine Learning Projects\CarPricePrediction\bin\Debug\net8.0\CarPricePrediction.exe train
+> D:\Machine Learning Projects\CarPricePrediction\bin\Debug\net8.0 train
 >"D:\Machine Learning Projects\CarPricePrediction\Data\sampledata.csv"
 >"D:\Machine Learning Projects\CarPricePrediction\Data\testdata.csv"
 
